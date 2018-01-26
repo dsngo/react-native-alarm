@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ yarn add git+https://github.com/geart891/d-rn-alarm.git`
+`$ yarn add git+https://github.com/geart891/react-native-alarm.git`
 
 ### Manual installation
 
